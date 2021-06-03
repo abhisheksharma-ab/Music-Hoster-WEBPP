@@ -69,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Music-Hoster-WEBPP
+### This is an Integrated Project in which I have made a Music Hoster app which is integrated with the backend and worked on developing REST API endpoints of various functionalities required for a MusicHoster app from scratch.
+
+
